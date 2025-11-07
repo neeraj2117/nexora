@@ -12,8 +12,16 @@ order page-
 <img width="1649" height="914" alt="Screenshot 2025-11-08 at 12 07 12 AM" src="https://github.com/user-attachments/assets/a16fe9c1-403d-4583-b072-e83f751c607d" />
 
 🏗️ Folder Structure -
+
 <img width="296" height="650" alt="Screenshot 2025-11-08 at 12 13 52 AM" src="https://github.com/user-attachments/assets/ce1359e4-356e-4037-b766-58ae32f7ff5d" />
 <img width="293" height="351" alt="Screenshot 2025-11-08 at 12 13 42 AM" src="https://github.com/user-attachments/assets/dc6f4576-ff36-4551-b6c4-9978796fb43a" />
+
+Video demo ->
+
+
+https://github.com/user-attachments/assets/6e80ecc7-9a7c-44b8-94dd-488c425e4dae
+
+
 
 🖤 Nexora — Modern E-Commerce UI
 
